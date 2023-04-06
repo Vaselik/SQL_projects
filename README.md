@@ -2,8 +2,9 @@
 Starting two small projects from scratch
 
 In the Students project:
-* I created table 
+* Created tables
 * Inserted values
+* Altered tables adding columns
 * Set different values
 
 In the Employees project:
