@@ -1,5 +1,5 @@
 # SQL_projects
-Create tables 
+Starting two small projects from scratch
 
 In the students project:
 * I created table 
