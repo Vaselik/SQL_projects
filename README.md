@@ -1,12 +1,12 @@
 # SQL_projects
 Starting two small projects from scratch
 
-In the students project:
+In the Students project:
 * I created table 
 * Inserted values
 * Set different values
 
-In the employees project:
+In the Employees project:
 * Created tables
 * Inserted vales
 * Joined them
